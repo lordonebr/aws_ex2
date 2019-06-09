@@ -1,0 +1,14 @@
+C:\Users\André\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 02\code\Livraria\bin\Debug\netcoreapp2.2\Livraria.deps.json
+C:\Users\André\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 02\code\Livraria\bin\Debug\netcoreapp2.2\Livraria.runtimeconfig.json
+C:\Users\André\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 02\code\Livraria\bin\Debug\netcoreapp2.2\Livraria.runtimeconfig.dev.json
+C:\Users\André\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 02\code\Livraria\bin\Debug\netcoreapp2.2\Livraria.dll
+C:\Users\André\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 02\code\Livraria\bin\Debug\netcoreapp2.2\Livraria.pdb
+C:\Users\André\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 02\code\Livraria\obj\Debug\netcoreapp2.2\Livraria.csprojAssemblyReference.cache
+C:\Users\André\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 02\code\Livraria\obj\Debug\netcoreapp2.2\Livraria.csproj.CoreCompileInputs.cache
+C:\Users\André\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 02\code\Livraria\obj\Debug\netcoreapp2.2\Livraria.RazorAssemblyInfo.cache
+C:\Users\André\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 02\code\Livraria\obj\Debug\netcoreapp2.2\Livraria.RazorAssemblyInfo.cs
+C:\Users\André\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 02\code\Livraria\obj\Debug\netcoreapp2.2\Livraria.AssemblyInfoInputs.cache
+C:\Users\André\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 02\code\Livraria\obj\Debug\netcoreapp2.2\Livraria.AssemblyInfo.cs
+C:\Users\André\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 02\code\Livraria\obj\Debug\netcoreapp2.2\Livraria.RazorTargetAssemblyInfo.cache
+C:\Users\André\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 02\code\Livraria\obj\Debug\netcoreapp2.2\Livraria.dll
+C:\Users\André\OneDrive\Faculdade\POS Graduação - PUC\04 - APIs e Web Services (AWS)\Exercício Aula 02\code\Livraria\obj\Debug\netcoreapp2.2\Livraria.pdb
